@@ -21,15 +21,15 @@ global.linkgrupss = "https://chat.whatsapp.com/LBHHmgLnr9Y5q7ZkhGikkI"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
+    success: '_Success Kak..._',
+    admin: 'Fitur Ini DiKhususkan Untuk Admin Group Kak ♥️',
+    botAdmin: 'Jadiin Aku Admin Dulu Dong Kak :(',
+    owner: 'Fitur Ini Cuma Khusus Owner Kenichi Dan Mahesa',
+    group: 'Fitur Digunakan Hanya Untuk Group Chat Kak 😗😗',
+    private: 'Fitur Digunakan Hanya Untuk Private Chat Ya Kak😼',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: '_Wait a minute, data is being processed!_',
-    linkm: 'Linknya Mana Kak?',
+    wait: '_Tunggu Bentar Kak, Aku Lagi Proses Dulu...😗♥️_',
+    linkm: '_Linknya Mana Kak?_',
     ban: 'Kamu telah dibanned oleh owner, Jika ingin di unbanned chat owner'
 }
 global.limitawal = {
@@ -56,7 +56,7 @@ global.APIs = {
 
 // Isi Api Mu Di sini
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': '26bb7e7e9c',
 }
 //Thank Fax Bot
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
